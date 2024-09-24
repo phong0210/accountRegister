@@ -2,7 +2,6 @@ package com.group3.accountRegister.controller;
 
 import com.group3.accountRegister.dto.request.AccountCreation;
 import com.group3.accountRegister.dto.request.AccountUpdate;
-import com.group3.accountRegister.entity.Account;
 import com.group3.accountRegister.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
